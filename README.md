@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Heyy there! 👋
 
 I'm Ahmed Abdullah, a Data Science enthusiast and a graduate with a passion for Data and Machine Learning. I'm currently based in Lahore, Pakistan. Welcome to my GitHub profile!
 
@@ -39,7 +39,8 @@ Here are some of the projects I've worked on:
 1. Google DSC Project - Past Paper App that Lets Students Access and Upload Past Papers
 2. Machine Learning Model for Predicting Tesla Rocket Launch
 3. Data Science Project that predicts Car Resale Value
-
+4. Currently working ML Model to predict the Insurance Claim by analyzing FitBit Data
+   
 You can explore more of my projects on my [GitHub profile](https://github.com/ahmedembeddedx).
 
 ## My Interests
