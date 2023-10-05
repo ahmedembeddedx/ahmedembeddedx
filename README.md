@@ -1,6 +1,6 @@
 # Heyy there! 👋
 
-I'm Ahmed Abdullah, a Data Science enthusiast and an undergraduate with a passion for Data and Machine Learning. I'm currently based in Lahore, Pakistan. Welcome to my GitHub profile!
+I'm Ahmed Abdullah, a Data Science enthusiast and an undergraduate with a passion for Data and Machine Learning, and on my way to Open Source Contribute. I'm currently based in Lahore, Pakistan. Welcome to my GitHub profile!
 
 ## About Me
 
@@ -11,7 +11,8 @@ I'm Ahmed Abdullah, a Data Science enthusiast and an undergraduate with a passio
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedembedded) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ahmedembedded/) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=GitHub&logoColor=white)](https://github.com/ahmedembeddedx/)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)]([https://stackoverflow.com/users/20331641](https://stackoverflow.com/users/22690687/ahmedembedded)) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=GitHub&logoColor=white)](https://github.com/ahmedembeddedx/)
 
 
 ## My Skills
