@@ -1,6 +1,6 @@
 # Heyy there! 👋
 
-I'm Ahmed Abdullah, a Data Science enthusiast and a graduate with a passion for Data and Machine Learning. I'm currently based in Lahore, Pakistan. Welcome to my GitHub profile!
+I'm Ahmed Abdullah, a Data Science enthusiast and an undergraduate with a passion for Data and Machine Learning. I'm currently based in Lahore, Pakistan. Welcome to my GitHub profile!
 
 ## About Me
 
@@ -44,9 +44,8 @@ Here are some of the projects I've worked on:
 2. Machine Learning Model for Predicting Tesla Rocket Launch
 3. Data Science Project that predicts Car Resale Value
 4. Currently working ML Model to predict the Insurance Claim by analyzing FitBit Data
-   
-You can explore more of my projects on my [GitHub profile](https://github.com/ahmedembeddedx).
-
+5. Currently working ML Model to predict the Credit Card Scams
+ 
 ## My Interests
 
 - Apart from my technical interests, I enjoy Sports, Data, and Coding.
