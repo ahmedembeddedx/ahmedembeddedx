@@ -1,6 +1,6 @@
 # Heyy there! 👋
 
-I'm Ahmed Abdullah, a Data Science enthusiast and an undergraduate with a passion for Data and Machine Learning, and on my way to Open Source Contribute. I'm currently based in Lahore, Pakistan. Welcome to my GitHub profile!
+I'm Ahmed Abdullah, a Data Science enthusiast and an undergraduate from FAST NUCES with a passion for Data and Machine Learning, and on my way to Open Source Contribute. I'm currently based in Lahore, Pakistan. Welcome to my GitHub profile!
 
 ## About Me
 
@@ -41,16 +41,11 @@ I hold the following certifications:
 
 Here are some of the projects I've worked on:
 
-1. Google DSC Project - Past Paper App that Lets Students Access and Upload Past Papers
+1. Google DSC Project - An All Rounder App for FAST NUCES Students
 2. Machine Learning Model for Predicting Tesla Rocket Launch
 3. Data Science Project that predicts Car Resale Value
-4. Currently working ML Model to predict the Insurance Claim by analyzing FitBit Data
-5. Currently working ML Model to predict the Credit Card Scams
- 
-## My Interests
-
-- Apart from my technical interests, I enjoy Sports, Data, and Coding.
-- I'm a huge Cricket Freak, but never played it once in my life.
+4. Currently working ML Model to predict the Credit Card Scams
+5. Currently working ML Model to predict the Mortgage Data
 
 ## Let's Connect
 
