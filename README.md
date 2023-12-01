@@ -9,11 +9,13 @@ I'm Ahmed Abdullah, a Data Science enthusiast and an undergraduate from FAST NUC
 - 👯 I’m open to collaborating on projects related to Data Science, Machine Learning, and anything tech-related.
 - 💬 Ask me about anything related to Data Science, Machine Learning, or technology in general.
 
+## Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ahmedembeddedx)](https://git.io/streak-stats)
+
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedembedded) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)]([https://stackoverflow.com/users/20331641](https://stackoverflow.com/users/22690687/ahmedembedded)) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=GitHub&logoColor=white)](https://github.com/ahmedembeddedx/)
-
 
 ## My Skills
 
@@ -37,7 +39,7 @@ I hold the following certifications:
 - [IBM Tools for Data Science](https://www.coursera.org/account/accomplishments/certificate/MFNVM2BFT2VH)
 - [DeepLearning.ai AI for Good](https://www.coursera.org/account/accomplishments/certificate/8U8MCFYJ596F)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ahmedembeddedx)](https://git.io/streak-stats)
+
 
 ## Projects
 
