@@ -37,6 +37,8 @@ I hold the following certifications:
 - [IBM Tools for Data Science](https://www.coursera.org/account/accomplishments/certificate/MFNVM2BFT2VH)
 - [DeepLearning.ai AI for Good](https://www.coursera.org/account/accomplishments/certificate/8U8MCFYJ596F)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ahmedembeddedx)](https://git.io/streak-stats)
+
 ## Projects
 
 Here are some of the projects I've worked on:
