@@ -7,7 +7,6 @@ I'm Ahmed Abdullah, a Data Science enthusiast and an undergraduate from FAST NUC
 - 🔭 I’m currently working on Google DSC (Developer Student Clubs) projects as a technical lead.
 - 🌱 I’m always learning and exploring new technologies, with a strong focus on Machine Learning and Data Science.
 - 👯 I’m open to collaborating on projects related to Data Science, Machine Learning, and anything tech-related.
-- 💬 Ask me about anything related to Data Science, Machine Learning, or technology in general.
 
 ## Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ahmedembeddedx)](https://git.io/streak-stats)
@@ -54,5 +53,9 @@ Here are some of the projects I've worked on:
 ## Let's Connect
 
 I'm always excited to connect with fellow developers, collaborators, and tech enthusiasts. Feel free to reach out, and let's chat about Data Science, Machine Learning, or any other tech topic you're passionate about!
+
+** "You can do whatever you like with my code, remix it, re-release it whatever... just never never make it boring" **
+-Ahmed Mercury
+
 
 Thanks for stopping by! 😄
