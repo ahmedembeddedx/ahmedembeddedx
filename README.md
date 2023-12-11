@@ -54,8 +54,8 @@ Here are some of the projects I've worked on:
 
 I'm always excited to connect with fellow developers, collaborators, and tech enthusiasts. Feel free to reach out, and let's chat about Data Science, Machine Learning, or any other tech topic you're passionate about!
 
-** "You can do whatever you like with my code, remix it, re-release it whatever... just never never make it boring" **
--Ahmed Mercury
+#### "You can do whatever you like with my code, remix it, re-release it whatever... just never never make it boring" 
+#### -Ahmed Mercury
 
 
 Thanks for stopping by! 😄
