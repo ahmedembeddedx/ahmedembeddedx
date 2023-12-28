@@ -12,7 +12,8 @@ I'm Ahmed Abdullah, a Data Science enthusiast and an undergraduate from FAST NUC
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ahmedembeddedx)](https://git.io/streak-stats)
 ![](https://komarev.com/ghpvc/?username=ahmedembeddedx&color=green)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedemebddedx&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedembeddedx&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedembedded) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)]([https://stackoverflow.com/users/20331641](https://stackoverflow.com/users/22690687/ahmedembedded)) 
