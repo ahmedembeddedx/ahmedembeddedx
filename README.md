@@ -4,7 +4,6 @@ I'm Ahmed Abdullah, a Data Science enthusiast and an undergraduate from FAST NUC
 
 ## About Me
 
-- 🔭 I’m currently working on Google DSC (Developer Student Clubs) projects as a technical lead.
 - 🌱 I’m always learning and exploring new technologies, with a strong focus on Machine Learning and Data Science.
 - 👯 I’m open to collaborating on projects related to Data Science, Machine Learning, and anything tech-related.
 
@@ -47,18 +46,17 @@ I hold the following certifications:
 
 Here are some of the projects I've worked on:
 
-1. Google DSC Project - An All Rounder App for FAST NUCES Students
+1. An All Rounder App for FAST NUCES Students
 2. Machine Learning Model for Predicting Tesla Rocket Launch
 3. Data Science Project that predicts Car Resale Value
-4. Currently working ML Model to predict the Credit Card Scams
-5. Currently working ML Model to predict the Mortgage Data
+4. Currently working ML Model for Emotional Intelligence and Tone Prediction Analysis
+5. Completed working ML Model to predict the Mortgage Data
 
 ## Let's Connect
 
 I'm always excited to connect with fellow developers, collaborators, and tech enthusiasts. Feel free to reach out, and let's chat about Data Science, Machine Learning, or any other tech topic you're passionate about!
 
 #### "You can do whatever you like with my code, remix it, re-release it whatever... just never make it boring" 
-#### -Ahmed Mercury
 
 
 Thanks for stopping by! 😄
