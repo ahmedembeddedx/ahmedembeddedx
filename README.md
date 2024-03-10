@@ -14,9 +14,13 @@ I'm Ahmed Abdullah, a Data Science enthusiast and an undergraduate from FAST NUC
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedembeddedx&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 ## Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedembedded) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)]([https://stackoverflow.com/users/20331641](https://stackoverflow.com/users/22690687/ahmedembedded)) 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=GitHub&logoColor=white)](https://github.com/ahmedembeddedx/)
+<a href="https://linkedin.com/in/ahmedembedded" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedembedded" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22690687" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22690687" height="30" width="40" /></a>
+<a href="https://codesandbox.com/ahmedembedded" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ahmedembedded" height="30" width="40" /></a>
+<a href="https://kaggle.com/ahmedembedded" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahmedembedded" height="30" width="40" /></a>
+<a href="https://instagram.com/ahmedembedded" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmedembedded" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ahmedembedded" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmedembedded" height="30" width="40" /></a>
+</p>
 
 ## My Skills
 
