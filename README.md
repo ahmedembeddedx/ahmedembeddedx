@@ -9,6 +9,10 @@ I'm Ahmed Abdullah, a Data Science enthusiast and an undergraduate from FAST NUC
 
 ## Streak and Stats
 
+### 
+<img src="https://raw.githubusercontent.com/ahmedembeddedx/ahmedembeddedx/output/snake.svg" alt="Snake animation" /> 
+###
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedembeddedx&" alt="ahmedembeddedx" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedembeddedx" alt="ahmedembeddedx" /></a> </p>
