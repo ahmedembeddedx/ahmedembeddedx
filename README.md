@@ -7,7 +7,12 @@ I'm Ahmed Abdullah, a Data Science enthusiast and an undergraduate from FAST NUC
 - 🌱 I’m always learning and exploring new technologies, with a strong focus on Machine Learning and Data Science.
 - 👯 I’m open to collaborating on projects related to Data Science, Machine Learning, and anything tech-related.
 
-## Streak
+## Streak and Stats
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedembeddedx&label=Profile%20views&color=29b40e&style=flat" alt="ahmedembeddedx" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedembeddedx" alt="ahmedembeddedx" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedembeddedx&show_icons=true&locale=en&layout=compact" alt="ahmedembeddedx" /></p>
 
@@ -47,11 +52,11 @@ I hold the following certifications:
 
 Here are some of the projects I've worked on:
 
-1. An All Rounder App for FAST NUCES Students
-2. Machine Learning Model for Predicting Tesla Rocket Launch
-3. Data Science Project that predicts Car Resale Value
-4. Currently working ML Model for Emotional Intelligence and Tone Prediction Analysis
-5. Completed working ML Model to predict the Mortgage Data
+1. House Price Prediction Model for Lahore Based Data.
+2. NLP Based Setup to classify between text and emotions.
+3. Data Vizualization Application to plot data from scratch log files in C++.
+4. Image classification model to mark attendance in C# and .NET FrameWork.
+5. ESPNCricInfo++ minimalistic application to show and analyse the stats. 
 
 ## Let's Connect
 
