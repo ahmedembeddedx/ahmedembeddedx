@@ -14,10 +14,7 @@ I'm Ahmed Abdullah, a Data Science enthusiast and an undergraduate from FAST NUC
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedembeddedx" alt="ahmedembeddedx" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedembeddedx&show_icons=true&locale=en&layout=compact" alt="ahmedembeddedx" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedembeddedx&show_icons=true&locale=en" alt="ahmedembeddedx" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedembeddedx&" alt="ahmedembeddedx" /></p>
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedembeddedx&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
