@@ -2,16 +2,9 @@
 
 I'm Ahmed Abdullah, a Data Science enthusiast and an undergraduate from FAST NUCES with a passion for Data and Machine Learning, and on my way to Open Source Contribute. I'm currently based in Lahore, Pakistan. Welcome to my GitHub profile!
 
-## About Me
-
-- 🌱 I’m always learning and exploring new technologies, with a strong focus on Machine Learning and Data Science.
-- 👯 I’m open to collaborating on projects related to Data Science, Machine Learning, and anything tech-related.
-
 ## Streak and Stats
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedembeddedx&" alt="ahmedembeddedx" /></p>
-
-
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedembeddedx&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 ## Socials
@@ -51,11 +44,3 @@ Here are some of the projects I've worked on:
 4. Image classification model to mark attendance in C# and .NET FrameWork.
 5. ESPNCricInfo++ minimalistic application to show and analyse the stats. 
 
-## Let's Connect
-
-I'm always excited to connect with fellow developers, collaborators, and tech enthusiasts. Feel free to reach out, and let's chat about Data Science, Machine Learning, or any other tech topic you're passionate about!
-
-#### "You can do whatever you like with my code, remix it, re-release it whatever... just never make it boring" 
-
-
-Thanks for stopping by! 😄
