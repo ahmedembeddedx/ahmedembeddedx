@@ -1,6 +1,6 @@
 ## Hey there!!!
 
-I'm Ahmed Abdullah, turning data into actionable intelligence, one spell at a time!
+I'm Ahmed Abdullah, part-time machine learning full-time statistics. 
 
 
 
