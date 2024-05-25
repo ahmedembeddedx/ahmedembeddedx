@@ -1,7 +1,8 @@
 ## Hey there!!!
 
-I'm Ahmed Abdullah, part-time machine learning full-time statistics. 
-(On Break for Exams)
+I'm Ahmed Abdullah, I do part-time machine learning and full-time statistics. 
+<hr>
+(Off to break for exams ;-;)
 
 
 
