@@ -1,9 +1,6 @@
 ## Hey there!!!
 
 I'm Ahmed Abdullah, I do part-time machine learning and full-time statistics. 
-<hr>
-(Off to break for exams ;-;)
-<hr>
 
 
   <a href="https://www.linkedin.com/in/ahmedembedded/"><img title="Let's connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
